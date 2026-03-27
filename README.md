@@ -82,6 +82,3 @@ The interface is fully responsive to user roles fetched from `/api/user`. Use th
 -   **Conditional Visibility**: Fields react instantly using `visibleWhen` logic (Booleans & String equalities).
 -   **Forensic Payload Assembly**: Action submissions generate a complete JSON footprint with user/timestamp/task metadata for legal audit trails.
 
----
-
-Developed for **Advanced Agentic Coding — Infolytx**.
