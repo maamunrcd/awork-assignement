@@ -77,11 +77,6 @@ The interface is fully responsive to user roles fetched from `/api/user`. Use th
 
 ---
 
-## 🎯 Design Philosophy
-> *The assignment is intentionally scoped - we're not looking for a fully polished product, but we do care deeply about how you lay the foundation. Strong candidates typically shine in schema-driven rendering, clean component architecture, and TypeScript precision. We'll be evaluating whether your core abstractions could grow into a production system, not just whether the demo works.*
-
-This project was built with a "Production-First" mindset, prioritizing extensible abstractions and type-safe data pipelines that can scale to 50+ jurisdictional milestone types.
-
 ## 📑 Core Forensic Features
 -   **Schema-at-Runtime**: Zero code changes required for new milestone types.
 -   **Conditional Visibility**: Fields react instantly using `visibleWhen` logic (Booleans & String equalities).
