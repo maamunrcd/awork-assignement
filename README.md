@@ -43,7 +43,7 @@ src/
 │   ├── data/             # Forensic JSON Data & Schemas
 │   ├── __tests__/        # Rigorous Business Logic Testing suite
 │   └── field-visibility.ts # Conditional Visibility Boolean logic
-└── types/                # Domain-specific Legal & Schema Interface definitions
+└── types/                # Features-specific Legal & Schema Interface definitions
 ```
 
 ---
